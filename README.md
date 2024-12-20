@@ -1,1 +1,1 @@
-# install_geta
+# Install GETA
